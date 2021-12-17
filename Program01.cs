@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 //Declare variaveis e  inicializar com zero.
-int num1 = 0; int num2 = 0;
+double num1 = 0; double num2 = 0;
 
 //Tela de titulos para o console.
 
@@ -10,11 +10,11 @@ Console.WriteLine("--------------------------  \n");
 
 //Pergunta ao usuario o primeiro numero.
 Console.WriteLine("Insira um numero, e pressione Enter ");
-num1 = Convert.ToInt32(Console.ReadLine());
+num1 = Convert.ToDouble (Console.ReadLine());
 
 //Pergunta ao usuário o segundo numero.
 Console.WriteLine("Insira o proximo numero, e precione Enter");
-num2 = Convert.ToInt32(Console.ReadLine());
+num2 = Convert.ToDouble (Console.ReadLine());
 
 //Pergunta ao usuario qual a opção desejada.
 
@@ -43,6 +43,5 @@ switch (Console.ReadLine())
     }
 //Esperar o usuário responder para fechar a aplicação.
 Console.Write("Precione qualquer tecla para fechar a Calculadora...");
-Console.ReadKey();
+Console.ReadKey();   
 
-    
