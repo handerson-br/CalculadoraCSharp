@@ -1,0 +1,15 @@
+/home/panorama/Documentos/ProjetoCSharp/bin/Debug/net6.0/ProjetoCSharp
+/home/panorama/Documentos/ProjetoCSharp/bin/Debug/net6.0/ProjetoCSharp.deps.json
+/home/panorama/Documentos/ProjetoCSharp/bin/Debug/net6.0/ProjetoCSharp.runtimeconfig.json
+/home/panorama/Documentos/ProjetoCSharp/bin/Debug/net6.0/ProjetoCSharp.dll
+/home/panorama/Documentos/ProjetoCSharp/bin/Debug/net6.0/ref/ProjetoCSharp.dll
+/home/panorama/Documentos/ProjetoCSharp/bin/Debug/net6.0/ProjetoCSharp.pdb
+/home/panorama/Documentos/ProjetoCSharp/obj/Debug/net6.0/ProjetoCSharp.csproj.AssemblyReference.cache
+/home/panorama/Documentos/ProjetoCSharp/obj/Debug/net6.0/ProjetoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/panorama/Documentos/ProjetoCSharp/obj/Debug/net6.0/ProjetoCSharp.AssemblyInfoInputs.cache
+/home/panorama/Documentos/ProjetoCSharp/obj/Debug/net6.0/ProjetoCSharp.AssemblyInfo.cs
+/home/panorama/Documentos/ProjetoCSharp/obj/Debug/net6.0/ProjetoCSharp.csproj.CoreCompileInputs.cache
+/home/panorama/Documentos/ProjetoCSharp/obj/Debug/net6.0/ProjetoCSharp.dll
+/home/panorama/Documentos/ProjetoCSharp/obj/Debug/net6.0/ref/ProjetoCSharp.dll
+/home/panorama/Documentos/ProjetoCSharp/obj/Debug/net6.0/ProjetoCSharp.pdb
+/home/panorama/Documentos/ProjetoCSharp/obj/Debug/net6.0/ProjetoCSharp.genruntimeconfig.cache
